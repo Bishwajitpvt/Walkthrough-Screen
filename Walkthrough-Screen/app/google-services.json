@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937613129702",
+    "project_id": "walkthrough-screen-d514e",
+    "storage_bucket": "walkthrough-screen-d514e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937613129702:android:3cfab7519ed49042a48827",
+        "android_client_info": {
+          "package_name": "com.example.walkthroughscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937613129702-eeqb16af9ii168csbq185bo3l6428f3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XJVs7XOcz3qnlIWdzgPUs-ETDIfXQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937613129702-eeqb16af9ii168csbq185bo3l6428f3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

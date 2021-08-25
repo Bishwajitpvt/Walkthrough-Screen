@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Walkthrough Screen</string>
+
+    <string name="welcome">Create your user and workspace name.</string>
+
+    <string name="term_policy">By signing up, you are agree to our Term of Use and Privacy Policy </string>
+
+    <string name="have_account">Already have an account? <u><b> Sign In </b> </u> </string>
+
+    <string name="signIn_desc">Sign In to your account</string>
+
+    <string name="dont_have_account">Dont have account? <u><b> Sign Up </b></u> </string>
+
+
+    <string name="first_slider">Create your user and workspace name.bsvbbvbwibvsb hvbhbviwshbvhsbv</string>
+
+
+    //header
+    <string name="first_slide_title">Create your user and workspace name.</string>
+    <string name="second_slide_title">Create your user and workspace name.</string>
+    <string name="third_slide_title">Create your user and workspace name.</string>
+
+
+    //description
+    <string name="first_desc">Create your user and workspace name.</string>
+    <string name="second_desc">Create your user and workspace name.</string>
+    <string name="third_desc">Create your user and workspace name.</string>
+
+
+</resources>
